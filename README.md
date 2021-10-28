@@ -11,7 +11,7 @@ I've used: pandas, NumPy,requests, tweepy, json libraries
 
 **Project files**:
 
-1.twitter_archive_enhanced.csv
+1. twitter_archive_enhanced.csv
 
 The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets -  rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo)
 
