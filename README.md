@@ -9,7 +9,7 @@ And as a result of this project, I've documented my wrangling efforts in a Wrang
 
 I've used: pandas, NumPy,requests, tweepy, json libraries
 
-**Project Files **:
+**Project files**:
 
 1.twitter_archive_enhanced.csv
 
