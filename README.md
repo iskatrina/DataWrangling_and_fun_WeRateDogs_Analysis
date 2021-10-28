@@ -1,8 +1,8 @@
 # 
 **Main Goal**: to learn and practice working with Twitter API and Wrangling data from various sources.
 
-The dataset is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
-SOme info: These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
+**Description**: The dataset is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. 
+<br> Some info: These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
 Within this project I've gathered data from a variety of sources and in a variety of formats, assessed its quality and tidiness, then cleaned it. 
 And as a result of this project, I've documented my wrangling efforts in a Jupyter Notebook, plus showcased them through analyses and visualizations using Python(and its libraries) and/or SQL.
